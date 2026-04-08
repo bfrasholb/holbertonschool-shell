@@ -1,3 +1,3 @@
 # Shell Basics
 
-Basic Bash CLI, including nacigating directories, moving files, flags on commands.
+Basic Bash CLI, including navigating directories, moving files, flags on commands.
