@@ -1,1 +1,3 @@
- # Shell Basics ReadMe Q1
+ # Bash File Variables + Permissions
+
+ Introduction to environment variables + file permissionss (RWX, etc.).
